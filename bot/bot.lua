@@ -231,7 +231,7 @@ function create_config( )
      "ctrl",
      "plugins",
      "poker",
-     "version",
+     "rasol",
      "addplug",
      "help",
      "getplug",
@@ -241,7 +241,7 @@ function create_config( )
      "weather",
      "webshot",
      },
-    sudo_users = {94746365,184111248},
+    sudo_users = {101564409},
     admin_users = {},
     disabled_channels = {}
   }
